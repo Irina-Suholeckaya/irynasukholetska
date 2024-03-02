@@ -45,10 +45,9 @@ Header
 
 ### Follow me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23f7f7f7?style-for-the-badge&logo=LinkedIn&logoColor=%230A66C2&link=www.linkedin.com%2Fin%2Firyna-sukholetska)](www.linkedin.com/in/iryna-sukholetska)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23f7f7f7?style-for-the-badge&logo=LinkedIn&logoColor=%230A66C2&link=www.linkedin.com%2Fin%2Firyna-sukholetska)](https://www.linkedin.com/in/iryna-sukholetska/)
 [![GitHUb Page](https://img.shields.io/badge/GitHub%20Page-%23427ead?style-for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https%3A%2F%2Fgithub.com%2FIrina-Suholeckaya%2Firynasukholetska)](https://github.com/Irina-Suholeckaya/irynasukholetska)
-[![Telegram](https://img.shields.io/badge/Telegram-%23f7f7f7?style-for-the-badge&logo=Telegram&logoColor=%2326A5E4&link=%40iryna_sukholetska)](@iryna_sukholetska)
-
+![Telegram](https://img.shields.io/badge/Telegram-%23f7f7f7?style-for-the-badge&logo=Telegram&logoColor=%2326A5E4&link=%40iryna_sukholetska)
 
 
 
