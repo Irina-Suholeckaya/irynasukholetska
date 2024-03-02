@@ -1,6 +1,10 @@
 Header
 
-## I am a QA who sees in every bug the challenge, and in testing - the art. My goal is not just to detect defects, but to create software that is inspiring.
+## My goal is not just to detect defects, but to create software that is inspiring.
+
+### My CV
+
+[Link to my CV](https://drive.google.com/file/d/1iTyghKkgs4Wt357UK1BT2wxhK7pVZ9fS/view?usp=sharing)
 
 ### Documentation Testing
 
@@ -41,7 +45,12 @@ Header
 
 ### Follow me
 
-![Telegram](https://img.shields.io/badge/Telegram-%23f7f7f7?style-for-the-badge&logo=Telegram&logoColor=%2326A5E4&link=%40iryna_sukholetska)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%23f7f7f7?style-for-the-badge&logo=LinkedIn&logoColor=%230A66C2&link=www.linkedin.com%2Fin%2Firyna-sukholetska)
+![GitHUb Page](https://img.shields.io/badge/GitHub%20Page-%23427ead?style-for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https%3A%2F%2Fgithub.com%2FIrina-Suholeckaya%2Firynasukholetska)
+![Telegram](https://img.shields.io/badge/Telegram-%23f7f7f7?style-for-the-badge&logo=Telegram&logoColor=%2326A5E4&link=%40iryna_sukholetska)
+
+
+
+
 
 
