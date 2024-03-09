@@ -1,4 +1,4 @@
-![Header](https://github.com/Irina-Suholeckaya/irynasukholetska/blob/main/assets/image.png)
+![Header](https://github.com/Irina-Suholeckaya/irynasukholetska/blob/main/assets/image%20(1).png)
 
 ### Experienced QA specialist seeking to apply profound testing knowledge to ensure high-quality software. My goal is not merely to identify defects but to be a key player in crafting stable and innovative products, upholding high-quality standards.
 
