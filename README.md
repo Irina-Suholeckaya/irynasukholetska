@@ -27,13 +27,12 @@
 ![Zeplin](https://img.shields.io/badge/Zeplin-%23ea8539?style-for-the-badge&logo=Zeplin&logoColor=%23f7f7f7)
 
 
-### Tools
+### Languages and Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23f7f7f7?style-for-the-badge&logo=GitHub&logoColor=%23181717)
 ![GitLab](https://img.shields.io/badge/GitLab-%23f7f7f7?style-for-the-badge&logo=GitLab&logoColor=%23FC6D26)
 
 ![MySQL](https://img.shields.io/badge/MySQL-%23f7f7f7?style-for-the-badge&logo=MySQL&logoColor=%23245278)
-
 ![JMeter](https://img.shields.io/badge/JMeter-%23f7f7f7?style-for-the-badge&logo=Apache%20JMeter&logoColor=%23D22128)
 
 ![Python](https://img.shields.io/badge/Python-%23f7f7f7?style-for-the-badge&logo=Python&logoColor=%233776AB)
@@ -43,7 +42,7 @@
 ![CSS](https://img.shields.io/badge/CSS-%23eaeaea?style-for-the-badge&logo=CSS3&logoColor=%231572B6)
 
 
-### Follow me
+### Follow Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23f7f7f7?style-for-the-badge&logo=LinkedIn&logoColor=%230A66C2&link=www.linkedin.com%2Fin%2Firyna-sukholetska)](https://www.linkedin.com/in/iryna-sukholetska/)
 [![GitHUb Page](https://img.shields.io/badge/GitHub%20Page-%23427ead?style-for-the-badge&logo=GitHub%20Pages&logoColor=white&link=https%3A%2F%2Fgithub.com%2FIrina-Suholeckaya%2Firynasukholetska)](https://github.com/Irina-Suholeckaya/irynasukholetska)
